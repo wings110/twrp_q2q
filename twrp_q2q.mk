@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/q2q/recover
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_q2q
 PRODUCT_DEVICE := q2q
-PRODUCT_MODEL := SM-F926B
+PRODUCT_MODEL := SM-F926N
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
